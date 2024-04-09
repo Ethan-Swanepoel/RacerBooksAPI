@@ -1,0 +1,6 @@
+@EBBooksAPI_HostAddress = http://localhost:5136
+
+GET {{EBBooksAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
